@@ -3,7 +3,7 @@
 
 ## Description
 A single-page text editor application that meets PWA criteria. The application runs in the browser, can be installed locally, and runs offline.
-
+<img width="1792" alt="Screen Shot 2022-10-21 at 8 33 41 AM" src="https://user-images.githubusercontent.com/78816141/197197650-39671e05-eafe-42b2-8f6f-0e9e5c37a878.png">
 ## Table of Contents
 [Installation Instructions](#installation-instructions)    
 
@@ -15,10 +15,10 @@ A single-page text editor application that meets PWA criteria. The application r
   
 ## Installation Instructions
 This program can be ran through browser by following the link to the deployed application:
+https://jate-bv.herokuapp.com/
 
 ## Usage Instructions
-Type in notes in the text editor. If you leave the browser and come back your notes will remain. You can click the install button to download the app locally and run offline
-
+Type in notes in the text editor. If you leave the browser and come back your notes will remain. You can click the install button to download the app locally and run offline.
 
 ## Questions
 For more information about the developer, check out my [Github Profile](https://github.com/BVlah)
